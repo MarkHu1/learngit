@@ -9,3 +9,4 @@ add merge1
 4
 5
 67890
+I am master!
